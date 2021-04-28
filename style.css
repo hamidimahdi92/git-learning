@@ -1,0 +1,12 @@
+body {
+    background: linear-gradient(to top right, dodgerblue, skyblue);
+    background-repeat: no-repeat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: whitesmoke;
+}
+
+.container {
+    height: 100vh;
+    padding: 45px;
+}
